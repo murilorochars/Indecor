@@ -1,7 +1,8 @@
 # Indecor
 
+#Demonstração: https://indecor-liart.vercel.app/
 
-📌 **Projeto de prática em HTML, CSS e Responsividade**  
+📌 **Projeto de prática em HTML, CSS, Responsividade e hospedagem na versel**  
 
 
 
